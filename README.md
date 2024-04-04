@@ -1,1 +1,3 @@
 A simple calculator code written in Python by ChatGPT. This code allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Users select the operation they want to perform by entering a corresponding number. They then input two numbers to perform the operation on and receive the result as output.
+
+You can also access it through the following URL: https://tom13tom13tom13.github.io/calculatorbygpt/
